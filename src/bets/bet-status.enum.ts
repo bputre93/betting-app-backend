@@ -1,0 +1,6 @@
+export enum BetStatus {
+    PENDING = 'PENDING',
+    ACCEPTED = 'ACCEPTED',
+    COMPLETED = 'COMPLETED',
+    CANCELLED = 'CANCELLED'
+}
